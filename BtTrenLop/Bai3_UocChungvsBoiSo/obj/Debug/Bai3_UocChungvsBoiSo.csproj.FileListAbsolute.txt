@@ -1,0 +1,11 @@
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 3\Bai3_UocChungvsBoiSo\bin\Debug\Bai3_UocChungvsBoiSo.exe.config
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 3\Bai3_UocChungvsBoiSo\bin\Debug\Bai3_UocChungvsBoiSo.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 3\Bai3_UocChungvsBoiSo\bin\Debug\Bai3_UocChungvsBoiSo.pdb
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 3\Bai3_UocChungvsBoiSo\obj\Debug\Bai3_UocChungvsBoiSo.csproj.AssemblyReference.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 3\Bai3_UocChungvsBoiSo\obj\Debug\Bai3_UocChungvsBoiSo.csproj.SuggestedBindingRedirects.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 3\Bai3_UocChungvsBoiSo\obj\Debug\Bai3_UocChungvsBoiSo.frmUocChungBoiSo.resources
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 3\Bai3_UocChungvsBoiSo\obj\Debug\Bai3_UocChungvsBoiSo.Properties.Resources.resources
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 3\Bai3_UocChungvsBoiSo\obj\Debug\Bai3_UocChungvsBoiSo.csproj.GenerateResource.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 3\Bai3_UocChungvsBoiSo\obj\Debug\Bai3_UocChungvsBoiSo.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 3\Bai3_UocChungvsBoiSo\obj\Debug\Bai3_UocChungvsBoiSo.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 3\Bai3_UocChungvsBoiSo\obj\Debug\Bai3_UocChungvsBoiSo.pdb

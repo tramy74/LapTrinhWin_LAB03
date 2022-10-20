@@ -1,0 +1,11 @@
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\BtTrenLop\Bai5_DocChuSo\bin\Debug\Bai5_DocChuSo.exe.config
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\BtTrenLop\Bai5_DocChuSo\bin\Debug\Bai5_DocChuSo.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\BtTrenLop\Bai5_DocChuSo\bin\Debug\Bai5_DocChuSo.pdb
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\BtTrenLop\Bai5_DocChuSo\obj\Debug\Bai5_DocChuSo.csproj.AssemblyReference.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\BtTrenLop\Bai5_DocChuSo\obj\Debug\Bai5_DocChuSo.csproj.SuggestedBindingRedirects.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\BtTrenLop\Bai5_DocChuSo\obj\Debug\Bai5_DocChuSo.frmDocChuSo.resources
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\BtTrenLop\Bai5_DocChuSo\obj\Debug\Bai5_DocChuSo.Properties.Resources.resources
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\BtTrenLop\Bai5_DocChuSo\obj\Debug\Bai5_DocChuSo.csproj.GenerateResource.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\BtTrenLop\Bai5_DocChuSo\obj\Debug\Bai5_DocChuSo.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\BtTrenLop\Bai5_DocChuSo\obj\Debug\Bai5_DocChuSo.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\BtTrenLop\Bai5_DocChuSo\obj\Debug\Bai5_DocChuSo.pdb

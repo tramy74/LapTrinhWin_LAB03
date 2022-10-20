@@ -1,0 +1,11 @@
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\Bai4_TinhTongDaySo\bin\Debug\Bai4_TinhTongDaySo.exe.config
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\Bai4_TinhTongDaySo\bin\Debug\Bai4_TinhTongDaySo.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\Bai4_TinhTongDaySo\bin\Debug\Bai4_TinhTongDaySo.pdb
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\Bai4_TinhTongDaySo\obj\Debug\Bai4_TinhTongDaySo.csproj.AssemblyReference.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\Bai4_TinhTongDaySo\obj\Debug\Bai4_TinhTongDaySo.csproj.SuggestedBindingRedirects.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\Bai4_TinhTongDaySo\obj\Debug\Bai4_TinhTongDaySo.Properties.Resources.resources
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\Bai4_TinhTongDaySo\obj\Debug\Bai4_TinhTongDaySo.csproj.GenerateResource.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\Bai4_TinhTongDaySo\obj\Debug\Bai4_TinhTongDaySo.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\Bai4_TinhTongDaySo\obj\Debug\Bai4_TinhTongDaySo.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\Bai4_TinhTongDaySo\obj\Debug\Bai4_TinhTongDaySo.pdb
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\Bai4_TinhTongDaySo\obj\Debug\Bai4_TinhTongDaySo.frmNhapDaySovaTinhTong.resources

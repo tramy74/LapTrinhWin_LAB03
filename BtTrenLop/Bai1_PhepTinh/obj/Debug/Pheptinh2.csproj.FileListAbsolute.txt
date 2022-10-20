@@ -1,0 +1,11 @@
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Pheptinh2\bin\Debug\Pheptinh2.exe.config
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Pheptinh2\bin\Debug\Pheptinh2.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Pheptinh2\bin\Debug\Pheptinh2.pdb
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Pheptinh2\obj\Debug\Pheptinh2.csproj.AssemblyReference.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Pheptinh2\obj\Debug\Pheptinh2.csproj.SuggestedBindingRedirects.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Pheptinh2\obj\Debug\Pheptinh2.frmTinhToan.resources
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Pheptinh2\obj\Debug\Pheptinh2.Properties.Resources.resources
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Pheptinh2\obj\Debug\Pheptinh2.csproj.GenerateResource.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Pheptinh2\obj\Debug\Pheptinh2.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Pheptinh2\obj\Debug\Pheptinh2.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Pheptinh2\obj\Debug\Pheptinh2.pdb

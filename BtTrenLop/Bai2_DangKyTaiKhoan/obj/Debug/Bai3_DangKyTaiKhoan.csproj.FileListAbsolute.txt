@@ -1,0 +1,11 @@
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Bai3_DangKyTaiKhoan\bin\Debug\Bai3_DangKyTaiKhoan.exe.config
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Bai3_DangKyTaiKhoan\bin\Debug\Bai3_DangKyTaiKhoan.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Bai3_DangKyTaiKhoan\bin\Debug\Bai3_DangKyTaiKhoan.pdb
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Bai3_DangKyTaiKhoan\obj\Debug\Bai3_DangKyTaiKhoan.csproj.AssemblyReference.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Bai3_DangKyTaiKhoan\obj\Debug\Bai3_DangKyTaiKhoan.csproj.SuggestedBindingRedirects.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Bai3_DangKyTaiKhoan\obj\Debug\Bai3_DangKyTaiKhoan.Form1.resources
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Bai3_DangKyTaiKhoan\obj\Debug\Bai3_DangKyTaiKhoan.Properties.Resources.resources
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Bai3_DangKyTaiKhoan\obj\Debug\Bai3_DangKyTaiKhoan.csproj.GenerateResource.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Bai3_DangKyTaiKhoan\obj\Debug\Bai3_DangKyTaiKhoan.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Bai3_DangKyTaiKhoan\obj\Debug\Bai3_DangKyTaiKhoan.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Bai3_DangKyTaiKhoan\obj\Debug\Bai3_DangKyTaiKhoan.pdb

@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Bai4_TinhTongDaySo, Configuration: Debug Any CPU ------
+1>D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\Bai4_TinhTongDaySo\Form1.cs(47,17,47,27): warning CS0162: Unreachable code detected
+1>  Bai4_TinhTongDaySo -> D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\NguyenPhanTraMy_47.01.104.132_LAB03\Bai4_TinhTongDaySo\bin\Debug\Bai4_TinhTongDaySo.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
