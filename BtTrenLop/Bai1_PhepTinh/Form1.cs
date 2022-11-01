@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -48,14 +48,17 @@ namespace Pheptinh2
         {
             double a = double.Parse(txtNhapA.Text);
             double b = double.Parse(txtNhapB.Text);
-            double c = a / b;
+            double c;
             if (b == 0)
             {
                 MessageBox.Show("Gia tri cua b khong hop le. Yeu cau nhap lai b!!");
-                return;
+               // return;
+               txtNhapB.Clear();
+                
             }
             else
             {
+                c = a / b;
                 txtKetQua.Text = c.ToString();
             }
         }
@@ -80,6 +83,11 @@ namespace Pheptinh2
         {
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
                 e.Handled = true;
+        }
+
+        private void txtKetQua_TextChanged(object sender, EventArgs e)
+        {
+            txtKetQua.Enabled = false;
         }
     }
 }
