@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -18,15 +18,15 @@ namespace Bai3_UocChungvsBoiSo
             InitializeComponent();
         }
 
-        static int USCLN(int a, int b)
+        static int GetGreatestCommonDivisor(int a, int b)
         {
             if (b == 0) return a;
-            return USCLN(b, a % b);
+            return GetGreatestCommonDivisor(b, a % b);
         }
 
-        static int BSCNN(int a, int b)
+        static int GetLeastCommonMultiple(int a, int b)
         {
-            return (a * b) / USCLN(a, b);
+            return (a * b) / GetGreatestCommonDivisor(a, b);
         }
 
         private void frmUocChungBoiSo_FormClosing(object sender, FormClosingEventArgs e)
@@ -43,8 +43,8 @@ namespace Bai3_UocChungvsBoiSo
         {
             int soA = int.Parse(txtNhapSoA.Text);
             int soB = int.Parse(txtNhapSoB.Text);
-            int uCLN = USCLN(soA, soB);
-            int bCNN = BSCNN(soA, soB);
+            int uCLN = GetGreatestCommonDivisor(soA, soB);
+            int bCNN = GetLeastCommonMultiple(soA, soB);
             txtUCLN.Text = uCLN.ToString();
             txtBCNN.Text = bCNN.ToString();
         }
@@ -52,17 +52,13 @@ namespace Bai3_UocChungvsBoiSo
         private void txtNhapSoA_KeyPress(object sender, KeyPressEventArgs e)
         {
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
-            {
                 e.Handled = true;
-            }
         }
 
         private void txtNhapSoB_KeyPress(object sender, KeyPressEventArgs e)
         {
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
-            {
                 e.Handled = true;
-            }
         }
 
         private void btnTiepTuc_Click(object sender, EventArgs e)
@@ -76,7 +72,5 @@ namespace Bai3_UocChungvsBoiSo
         {
             this.Close();
         }
-
-
     }
 }
