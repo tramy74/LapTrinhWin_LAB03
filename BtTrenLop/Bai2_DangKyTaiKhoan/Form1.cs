@@ -44,20 +44,14 @@ namespace Bai3_DangKyTaiKhoan
             Control ctr = (Control)sender;
             if (ctr.Text.Trim().Length == 0)
                 this.errorProvider1.SetError(ctr, "Bạn phải nhập tên đăng nhập");
-
         }
-
-
 
         private void button1_Click(object sender, EventArgs e)
         {
             if (txtTen.Text.Length == 0 || txtDiaChiEmail.Text.Length == 0 || txtMatKhau.Text.Length == 0 || txtXacNhanMatKhau.Text.Length == 0)
             {
                 MessageBox.Show("Mời bạn nhập đầy đủ các ô!!");
-                return;
             }
-
-
 
             else
             {
@@ -68,7 +62,7 @@ namespace Bai3_DangKyTaiKhoan
                 if (txtMatKhau.Text != txtXacNhanMatKhau.Text)
                 {
                     MessageBox.Show("Mật khẩu không giống nhau!!!");
-                    return;
+                    txtXacNhanMatKhau.Focus();
                 }
                 DialogResult r;
                 r = MessageBox.Show("Bạn có muốn đăng kí không?", "Xác nhận",
@@ -78,7 +72,6 @@ namespace Bai3_DangKyTaiKhoan
                 {
                     MessageBox.Show($"Tên đăng nhập: {Ten}\nEmail:{email}");
                 }
-
             }
         }
 
@@ -100,15 +93,11 @@ namespace Bai3_DangKyTaiKhoan
             if (IsEmail(txtDiaChiEmail.Text) == false)
             {
                 MessageBox.Show("Nhập lại email!!!");
-
                 //
                 //txtDiaChiEmail.Focus();
                 return;
             }
             // else
-
         }
-
-        
     }
 }
