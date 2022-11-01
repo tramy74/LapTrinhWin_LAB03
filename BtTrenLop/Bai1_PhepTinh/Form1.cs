@@ -48,7 +48,7 @@ namespace Pheptinh2
         {
             double a = double.Parse(txtNhapA.Text);
             double b = double.Parse(txtNhapB.Text);
-            double c;
+            double c = a / b;
             if (b == 0)
             {
                 MessageBox.Show("Gia tri cua b khong hop le. Yeu cau nhap lai b!!");
@@ -56,7 +56,6 @@ namespace Pheptinh2
             }
             else
             {
-                c = a / b;
                 txtKetQua.Text = c.ToString();
             }
         }
@@ -74,17 +73,13 @@ namespace Pheptinh2
         private void txtNhapA_KeyPress(object sender, KeyPressEventArgs e)
         {
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
-            {
                 e.Handled = true;
-            }
         }
 
         private void txtNhapB_KeyPress(object sender, KeyPressEventArgs e)
         {
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
-            {
                 e.Handled = true;
-            }
         }
     }
 }
